@@ -1,9 +1,0 @@
-{
-	"Author": "AudaciousBovine",
-	"Name": "Dredge Moo Template",
-	"ModGUID": "AudaciousBovine.DredgeMooTemplate",
-	"Version": "0.0.1",
-	"ModAssembly": "DredgeMooTemplate.dll",
-	"MinWinchVersion": "0.6.1",
-	"Entrypoint": "DredgeMooTemplate.Loader/Initialize"
-}

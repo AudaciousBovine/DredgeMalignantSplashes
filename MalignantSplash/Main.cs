@@ -1,7 +1,7 @@
 ﻿﻿using HarmonyLib;
 using System.Reflection;
 
-namespace DredgeMooTemplate
+namespace MalignantSplash
 {
     public class Loader
     {
@@ -11,7 +11,7 @@ namespace DredgeMooTemplate
         public static void Initialize()
         {
             /// RUNS HARMONY PATCHES
-            new Harmony("com.AudaciousBovine.DredgeMooTemplate").PatchAll(Assembly.GetExecutingAssembly());
+            new Harmony("com.AudaciousBovine.MalignantSplash").PatchAll(Assembly.GetExecutingAssembly());
         }
     }
 }
