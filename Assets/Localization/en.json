@@ -1,0 +1,12 @@
+{
+    "AudaciousBovine.MalignantSplashes.enableMod.title": "Enable Malignant Splashes",
+    "AudaciousBovine.MalignantSplashes.enableMod.tooltip": "Makes Dark Splashes Malignantly cling to your hull unable to be discarded, a shipyard can remove them for a cost.",
+    "AudaciousBovine.MalignantSplashes.unmovableSplashes.title": "Unmovable",
+    "AudaciousBovine.MalignantSplashes.unmovableSplashes.tooltip": "Prevents Dark Splashes from being moved around the hull or into storage making them even more of a problem.",
+    "AudaciousBovine.MalignantSplashes.splashPanicMod.title": "(WIP) Panic Modifier",
+    "AudaciousBovine.MalignantSplashes.splashPanicMod.tooltip": "(NOT IMPLEMENTED) Percentage of panic increase per Dark Splash clinging to the hull.",
+    "AudaciousBovine.MalignantSplashes.splashRemoveCost.title": "Removal Cost",
+    "AudaciousBovine.MalignantSplashes.splashRemoveCost.tooltip": "The cost to remove a Dark Splash from your hull.",
+    "AudaciousBovine.MalignantSplashes.splashSellValue.title": "(WIP) Sell Value",
+    "AudaciousBovine.MalignantSplashes.splashSellValue.tooltip": "(NOT IMPLEMENTED) The amount you receive when selling a Dark Splash to someone that cares to buy them."
+}

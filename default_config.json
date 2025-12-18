@@ -1,0 +1,32 @@
+{
+    "enableMod": {
+        "type": "toggle",
+        "title": "AudaciousBovine.MalignantSplashes.enableMod.title",
+        "tooltip": "AudaciousBovine.MalignantSplashes.enableMod.tooltip",
+        "value": true
+    },
+    "unmovableSplashes": {
+        "type": "toggle",
+        "title": "AudaciousBovine.MalignantSplashes.unmovableSplashes.title",
+        "tooltip": "AudaciousBovine.MalignantSplashes.unmovableSplashes.tooltip",
+        "value": false
+    },
+    "splashPanicMod": {
+        "type": "integer",
+        "title": "AudaciousBovine.MalignantSplashes.splashPanicMod.title",
+        "tooltip": "AudaciousBovine.MalignantSplashes.splashPanicMod.tooltip",
+        "value": 1
+    },
+    "splashRemoveCost": {
+        "type": "decimal",
+        "title": "AudaciousBovine.MalignantSplashes.splashRemoveCost.title",
+        "tooltip": "AudaciousBovine.MalignantSplashes.splashRemoveCost.tooltip",
+        "value": 1
+    },
+        "splashSellValue": {
+        "type": "decimal",
+        "title": "AudaciousBovine.MalignantSplashes.splashSellValue.title",
+        "tooltip": "AudaciousBovine.MalignantSplashes.splashSellValue.tooltip",
+        "value": 5
+    }
+}

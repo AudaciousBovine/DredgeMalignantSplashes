@@ -2,15 +2,14 @@
 using Winch.Util;
 using HarmonyLib;
 using System.Reflection;
-using UnityEngine;
 using Winch.Config;
-using UnityEngine.Localization.SmartFormat.Utilities;
-using Winch.Core;
 
 namespace MalignantSplashes
 {
     public class Loader
     {
+        ModConfig Config => ModConfig.GetConfig();
+
         /// This method is run by Winch to initialize your mod
         public static void Initialize()
         {
