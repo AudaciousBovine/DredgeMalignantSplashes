@@ -8,7 +8,7 @@
     "AudaciousBovine.MalignantSplashes.splashRemoveCost.title": "Removal Cost",
     "AudaciousBovine.MalignantSplashes.splashRemoveCost.tooltip": "The cost to remove a Dark Splash from your hull.",
     "AudaciousBovine.MalignantSplashes.splashSellValue.title": "(WIP) Sell Value",
-    "AudaciousBovine.MalignantSplashes.splashSellValue.tooltip": "(NOT IMPLEMENTED) The amount you receive when selling a Dark Splash to someone that cares to buy them.",
+    "AudaciousBovine.MalignantSplashes.splashSellValue.tooltip": "(NOT IMPLEMENTED) The value when selling a Dark Splash to someone that cares to buy them.",
     "AudaciousBovine.MalignantSplashes.splashPanicMod.title": "(WIP) Panic Modifier",
     "AudaciousBovine.MalignantSplashes.splashPanicMod.tooltip": "(NOT IMPLEMENTED) Percentage of panic increase per Dark Splash clinging to the hull."
 
