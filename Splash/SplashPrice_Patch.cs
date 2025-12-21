@@ -21,12 +21,12 @@ namespace MalignantSplashes.Splash.Patches
                 {
                     itemData.value = Main.Config.GetProperty<decimal>("splashSellValue");
                     itemData.moveMode = MoveMode.FREE;
-                    __result *= 1;
+                    __result = itemData.value;
                 }
                 else
                 {
                     itemData.value = Main.Config.GetProperty<decimal>("splashRemoveValue"); 
-                    __result *= -1;
+                    __result = itemData.value * -1;
 
                     if (Main.Config.GetProperty<string>("malignance") == "NONE")
                     {

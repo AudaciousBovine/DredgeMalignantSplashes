@@ -25,20 +25,20 @@
         "type": "decimal",
         "title": "AudaciousBovine.MalignantSplashes.splashRemoveValue.title",
         "tooltip": "AudaciousBovine.MalignantSplashes.splashRemoveValue.tooltip",
-        "value": 1
+        "value": 50
     },
 
     "splashSellValue": {
         "type": "decimal",
         "title": "AudaciousBovine.MalignantSplashes.splashSellValue.title",
         "tooltip": "AudaciousBovine.MalignantSplashes.splashSellValue.tooltip",
-        "value": 5
+        "value": 25
     },
 
     "splashPanicMod": {
         "type": "integer",
         "title": "AudaciousBovine.MalignantSplashes.splashPanicMod.title",
         "tooltip": "AudaciousBovine.MalignantSplashes.splashPanicMod.tooltip",
-        "value": 1
+        "value": 0
     }
 }
