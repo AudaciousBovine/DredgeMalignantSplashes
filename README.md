@@ -1,16 +1,14 @@
 ![Mod Title Art](/Images/MalignantSplashes.jpg)
 
 ### Dark Splashes are more of a hazard now!
-:red_square:
-:green_square:
-:purple_square:
+
 ![Mod Updates](/Images/DredgeUpdates.png)
 
 ### "Malignance Your Way" Update 1.1.0
-- :green_square:Added Config Menu
-- :green_square:Cleaned up some code
-- :purple_square:Made shipyards charge for removal (negative sale)
-- :red_square:Removed Morrow Shipyard buying Materials (Splashes are now equipment so she "buys" them anyway)
+- Added Config Menu
+- Cleaned up some code
+- Made shipyards charge for removal (negative sale)
+- Removed Morrow Shipyard buying Materials (Splashes are now equipment so she "buys" them anyway)
 
 ### "Malignant Splashes" Release 1.0.0
 - Initial Release
@@ -31,11 +29,11 @@
 I wanted to make them an actual _irritating_ problem clogging up your ship and _clinging malignantly_ to your hull requiring you to travel to a **shipyard** to remove them!
 
 ![Mod Features](/Images/DredgeFeatures.png)
-- :red_square:Dark Splashes can no longer be discarded
-- :red_square:Dark Splashes take an hour to move on your hull (Configurable)
-- :red_square:Have to be properly cleaned and removed at a shipyard (Sell for negative value) (Configurable)
-- :purple_square:Dark Splashes can be stuffed in your storage at a dock to clog its space while you find a shipyard
-- :green_square:There may be a shop that actually pays you for them
+- Dark Splashes can no longer be discarded
+- Dark Splashes take an hour to move on your hull (Configurable)
+- Have to be properly cleaned and removed at a shipyard (Sell for negative value) (Configurable)
+- Dark Splashes can be stuffed in your storage at a dock to clog its space while you find a shipyard
+- There may be a shop that actually pays you for them
 
 ![Mod Example](/Images/DarkSplash.jpg)
 
@@ -43,8 +41,8 @@ I wanted to make them an actual _irritating_ problem clogging up your ship and _
 - ~~Configuration File~~ Added!
 - ~~Movable or not~~ Added!
 - ~~Removing costs money~~ Added!
-- :red_square:Extra panic rate per carried splash
-- :purple_square:Some sort of proximity effect to fish on the hull
+- Extra panic rate per carried splash
+- Some sort of proximity effect to fish on the hull
 
 ## Found on DredgeMods.com!
 https://dredgemods.com/mods/malignant_splashes/
